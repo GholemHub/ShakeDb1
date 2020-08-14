@@ -22,6 +22,7 @@ namespace Shaker.Forms
             InitializeComponent();
 
             GetDB();
+            
            
         }
      
