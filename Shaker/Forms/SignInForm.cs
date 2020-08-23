@@ -23,7 +23,7 @@ namespace Shaker.Forms
             newForm.Show();
         }
 
-        private void LogIn_Click(object sender, EventArgs e)
+        private void LogIn_Click(object sender, EventArgs e) 
         {
 
         }
